@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>My Info</title>
 
